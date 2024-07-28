@@ -1,0 +1,10 @@
+export const WIDTH = 400; // width of each slide
+export const IMAGE_COUNT = 4; // number of slides
+export const START_POSITION = 1; // index of the first slide
+export const SLIDESHOW_TIME = 1000; // time in milliseconds
+export const PATH = "./assets/images/"; // path to the images
+export const FORMAT = ".jpg"; // format of the images
+export const ACTIVE_COLOR = "#fafafa"; // color of the active slide
+export const INACTIVE_COLOR = "#808080"; // color of the inactive slides
+export const IS_AUTOPLAY_INTERFACE = true; // enable/disable autoplay buttons display
+export const IS_POSITION_INTERFACE = true; // enable/disable position display
